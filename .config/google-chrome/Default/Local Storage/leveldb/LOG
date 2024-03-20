@@ -1,0 +1,6 @@
+2024/03/20-14:05:59.860 4 Reusing MANIFEST /home/Raymon/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/20-14:05:59.866 4 Recovering log #116
+2024/03/20-14:05:59.871 4 Reusing old log /home/Raymon/.config/google-chrome/Default/Local Storage/leveldb/000116.log 
+2024/03/20-14:10:17.874 4 Level-0 table #119: started
+2024/03/20-14:10:17.881 4 Level-0 table #119: 45642 bytes OK
+2024/03/20-14:10:17.891 4 Delete type=0 #116

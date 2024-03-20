@@ -1,0 +1,5 @@
+2024/03/19-16:15:40.075 2b76 Creating DB /home/Raymon/.config/discord/Local Storage/leveldb since it was missing.
+2024/03/19-16:15:40.087 2b76 Reusing MANIFEST /home/Raymon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/03/19-16:20:54.797 2d31 Level-0 table #5: started
+2024/03/19-16:20:54.851 2d31 Level-0 table #5: 2972438 bytes OK
+2024/03/19-16:20:54.859 2d31 Delete type=0 #3

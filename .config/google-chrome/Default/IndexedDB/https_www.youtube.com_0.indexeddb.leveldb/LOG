@@ -1,0 +1,9 @@
+2024/03/19-21:36:03.141 881f Reusing MANIFEST /home/Raymon/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-21:36:03.141 881f Recovering log #53
+2024/03/19-21:36:03.149 881f Reusing old log /home/Raymon/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000053.log 
+2024/03/19-21:36:03.364 881f Compacting 1@1 + 1@2 files
+2024/03/19-21:36:03.407 881f Generated table #56@1: 427 keys, 58386 bytes
+2024/03/19-21:36:03.408 881f Compacted 1@1 + 1@2 files => 58386 bytes
+2024/03/19-21:36:03.413 881f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/19-21:36:03.413 881f Delete type=2 #51
+2024/03/19-21:36:03.414 881f Delete type=2 #54

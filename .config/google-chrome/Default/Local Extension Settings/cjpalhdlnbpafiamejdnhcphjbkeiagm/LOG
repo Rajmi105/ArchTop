@@ -1,0 +1,30 @@
+2024/03/20-14:06:01.060 316 Reusing MANIFEST /home/Raymon/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/03/20-14:06:01.061 316 Recovering log #30
+2024/03/20-14:06:01.098 316 Reusing old log /home/Raymon/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000030.log 
+2024/03/20-14:07:48.368 309 Level-0 table #38: started
+2024/03/20-14:07:48.414 309 Level-0 table #38: 2130207 bytes OK
+2024/03/20-14:07:48.425 309 Delete type=0 #30
+2024/03/20-14:07:48.494 309 Level-0 table #40: started
+2024/03/20-14:07:48.525 309 Level-0 table #40: 2056620 bytes OK
+2024/03/20-14:07:48.531 309 Delete type=0 #37
+2024/03/20-14:07:49.070 309 Level-0 table #42: started
+2024/03/20-14:07:49.115 309 Level-0 table #42: 1410511 bytes OK
+2024/03/20-14:07:49.122 309 Delete type=0 #39
+2024/03/20-14:09:49.917 309 Level-0 table #44: started
+2024/03/20-14:09:49.973 309 Level-0 table #44: 3759466 bytes OK
+2024/03/20-14:09:49.979 309 Delete type=0 #41
+2024/03/20-14:09:49.980 309 Compacting 4@0 + 4@1 files
+2024/03/20-14:09:50.058 309 Generated table #45@0: 8 keys, 2754411 bytes
+2024/03/20-14:09:50.119 309 Generated table #46@0: 9 keys, 2812063 bytes
+2024/03/20-14:09:50.178 309 Generated table #47@0: 2 keys, 2557715 bytes
+2024/03/20-14:09:50.196 309 Generated table #48@0: 11 keys, 776338 bytes
+2024/03/20-14:09:50.196 309 Compacted 4@0 + 4@1 files => 8900527 bytes
+2024/03/20-14:09:50.202 309 compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/03/20-14:09:50.203 309 Delete type=2 #35
+2024/03/20-14:09:50.203 309 Delete type=2 #44
+2024/03/20-14:09:50.203 309 Delete type=2 #40
+2024/03/20-14:09:50.203 309 Delete type=2 #33
+2024/03/20-14:09:50.203 309 Delete type=2 #32
+2024/03/20-14:09:50.203 309 Delete type=2 #42
+2024/03/20-14:09:50.203 309 Delete type=2 #34
+2024/03/20-14:09:50.203 309 Delete type=2 #38

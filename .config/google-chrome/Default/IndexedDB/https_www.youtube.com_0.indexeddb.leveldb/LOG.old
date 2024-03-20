@@ -1,0 +1,6 @@
+2024/03/19-21:34:45.957 8674 Reusing MANIFEST /home/Raymon/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-21:34:45.958 8674 Recovering log #49
+2024/03/19-21:34:46.017 8674 Reusing old log /home/Raymon/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000049.log 
+2024/03/19-21:35:15.024 8672 Level-0 table #54: started
+2024/03/19-21:35:15.064 8672 Level-0 table #54: 1235501 bytes OK
+2024/03/19-21:35:15.079 8672 Delete type=0 #49
