@@ -1,4 +1,4 @@
-yay -S coreshot rofi picom-arian8j2-git main light mc i3-gaps i3status i3lock alacritty imwheel polkit-gnome feh xclip lxappearance nemo
+yay -S coreshot rofi picom-arian8j2-git main light mc i3-gaps i3status i3lock alacritty imwheel polkit-gnome feh xclip lxappearance nemo neovim
 cp -r .config/ ~/
 sudo cp -r fonts/ /usr/share/fonts/
 sudo cp -r icons/ /usr/share/icons/
